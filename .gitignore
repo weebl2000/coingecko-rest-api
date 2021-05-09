@@ -1,0 +1,54 @@
+.gradle
+build/
+
+# IntelliJ
+.idea
+*.iml
+
+#Netbeans
+/.nb-gradle/
+
+#Eclipse
+.metadata/
+
+# Frontend
+coverage
+node_modules
+npm-debug.log
+yarn-error.log
+
+### STS and Eclipse ###
+
+.classpath
+
+.factorypath
+
+.project
+
+.settings
+
+.springBeans
+
+.vscode/
+
+build/
+
+dist/
+bin/
+test-bin/
+
+##
+out/
+
+*.audit
+*.log
+/logs/
+/persistent/
+.DS_Store
+deployment/HELM/doculayer-0.1.0.tgz
+deployment/HELM/doculayer/README.pdf
+deployment/HELM/doculayer/charts/kibana/README.md
+deployment/HELM/doculayer/charts/kibana/ci/
+
+# python venv
+venv/
